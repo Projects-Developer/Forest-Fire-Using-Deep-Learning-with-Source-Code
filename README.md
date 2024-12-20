@@ -1,7 +1,7 @@
 # Forest-Fire-Using-Deep-Learning
 Forest Fire Using Deep Learning Code, Document and Video tutorial 
 
-![image](https://github.com/user-attachments/assets/2eabcc0f-7dc1-4eb0-bb0a-f95c8ab0fdaa)
+![Forest Fire](https://github.com/user-attachments/assets/551489ce-a2f3-4743-9be3-6395476293db)
 
 ## Youtube link: https://youtu.be/b_MHCm0EQ7w?si=JVCylnDqfdS7RtBc
 
